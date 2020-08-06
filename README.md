@@ -1,2 +1,2 @@
-# xm-dvrip-audiao-player
+# xm-dvrip-audio-player
 XM DVRIP Audio player
